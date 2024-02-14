@@ -1,0 +1,63 @@
+.main {
+    width: 1981.7px;
+    height: 954px;
+
+}
+
+.advantage {
+    width: 1981.7px;
+    height: 954px;
+    z-index: -1;
+    position: absolute;
+    left: 0;
+    top: 673px;
+
+}
+
+.design {
+    background-color: rgba(160, 138, 230, 1);
+
+}
+
+.card {
+    background: #8D72E1;
+    position: absolute;
+    top: 1464px;
+    width: 1981.7px;
+    height: 1111px;
+    left: 0;
+    z-index: -2;
+
+}
+
+.Testimoni {
+
+    position: absolute;
+    width: 1809px;
+    height: 762.6px;
+    left: 172px;
+    top: 158px;
+}
+
+.services {
+    position: absolute;
+    width: 1981.7px;
+    height: 1037.54px;
+    left: 0;
+    top: 2381.46px;
+    z-index: -1;
+}
+
+.footer {
+
+    position: absolute;
+    width: 1981.7px;
+    height: 531.5px;
+    left: 0%;
+    top: 3201px;
+
+
+
+    left: 0;
+    top: 3201px;
+}

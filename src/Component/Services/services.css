@@ -1,0 +1,65 @@
+.serviceText {
+
+
+    position: absolute;
+    width: 253px;
+    height: 47px;
+    left: 230px;
+    top: 2488px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 47px;
+    letter-spacing: 0.065em;
+    color: #FFFFFF;
+}
+
+.serText {
+    position: absolute;
+    width: 185px;
+    height: 42px;
+    left: 235px;
+    top: 2560px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+.Group8 {
+    position: absolute;
+    width: 374.03px;
+    height: 366.42px;
+    left: 816px;
+    top: 2487px;
+}
+
+.Group9 {
+    position: absolute;
+    width: 369.14px;
+    height: 364.17px;
+    left: 304.95px;
+    top: 2663px;
+}
+
+.Group10 {
+    position: absolute;
+    width: 376.89px;
+    height: 365.48px;
+    left: 759.99px;
+    top: 2811px;
+    transform: rotate(4.3deg);
+}
+
+.Group11 {
+    position: absolute;
+    width: 360.11px;
+    height: 378.45px;
+    left: 1322.22px;
+    top: 2678.06px;
+    transform: rotate(-0.12deg);
+}

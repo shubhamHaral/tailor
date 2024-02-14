@@ -1,0 +1,50 @@
+.Group7 {
+
+    position: absolute;
+    width: 413px;
+    height: 460.56px;
+    left: -78px;
+    top: 1798.91px;
+}
+
+.Group6 {
+    position: absolute;
+    width: 431px;
+    height: 492.56px;
+    left: 400px;
+    top: 1781.53px;
+}
+
+#HeSay {
+    position: absolute;
+    width: 138px;
+    height: 18.35px;
+    left: 1049px;
+    top: 1829.82px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: #FDC1DF;
+}
+
+#reply {
+    position: absolute;
+    width: 473px;
+    height: 54.09px;
+    left: 771px;
+    top: 1859.76px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+}
